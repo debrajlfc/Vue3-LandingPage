@@ -1,0 +1,19 @@
+{
+  "information": [
+    {
+      "Name": "Debraj",
+      "Age": "24",
+      "Role": "student"
+    },
+    {
+      "Name": "Leo Messi",
+      "Age": "35",
+      "Role": "footballer"
+    },
+    {
+      "Name": "Debasis",
+      "Age": "62",
+      "Role": "service"
+    }
+  ]
+}

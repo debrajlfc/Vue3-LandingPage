@@ -1,0 +1,19 @@
+{
+  "spanish": [
+    {
+      "Name": "Nombre",
+      "Age": "Anos",
+      "Role": "Papel"
+    },
+    {
+      "Debraj": "Debraj",
+      "Leo Messi": "Leo Messi",
+      "Debasis": "Debasis"
+    },
+    {
+      "student": "Alumno",
+      "footballer": "Futbolista",
+      "service": "Servicio"
+    }
+  ]
+}
